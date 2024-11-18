@@ -8,14 +8,8 @@
     },
     {
       "id": "2",
-      "title": "Test2",
+      "title": "Test",
       "desc": "Test2",
-      "completed": false
-    },
-    {
-      "id": "5186",
-      "title": "в",
-      "desc": " ",
       "completed": false
     }
   ]
